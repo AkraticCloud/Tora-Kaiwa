@@ -21,12 +21,18 @@ These are goals that are specifically for the software itself, I want these to b
    - This could include things like creating a list of saved words and basic flashcards sets.
 8. Have a decent test-suite
    - The last class I took at Uni was for Quality Assurance and Testing, and I was genuinely shocked that I wasn't informed about testing to ensure that code worked properly because if I did, that probably would've save me so much in the debugging process in my last project, and save me a few from the stress of having to make last minute changes to code before presentations.
-10. 
+10. Set-up DevOps Tools
+    - I want to be get a hang of GitHub's CI/CD tools, at this point I have little experience with GitLab's CI/CD, but I want to have assurance in the quality of my work by going the whole distance instead of compromising when things get complex.
 
 #### Stretch Goals
 These are more ideas that I thought would be fun to make, but not necessary to make a successful product
 ### Japanese Goals
 These are goals related to my Japanese learning Journey, while these aren't completely related to the app, I want to publicize my Journey so that I can hold myself accountable if I don't follow through.
+1. Pass the JLPT Exam
+   - While I studied for 3 years and even got the chance to travel to Japan for 2 weeks, I never had the confidence to take the exam, but I want this process to encourage me to take it in the near future, even just passing N5 would satisfy me, even if I was taught topics and techniques that appear in N2.
+2. Have this tool be used by my school
+   - This one is a cheesy one, but I'm making this project to combine my disciplines and create a positive impact. Nothing would bring me greater joy in this process than hearing that the Japanese department of my school is using something that I made as a love letter to them.
 ___
 ## Progress Tracker
+Right now this part is gonna be blank while I get everything ready for development, but as things progress, I'll table progress and show how close I am to production.
 ___
